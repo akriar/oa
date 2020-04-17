@@ -6,6 +6,6 @@ public class HelloA {
 		System.out.println("bbbbbbbbb");
 		System.out.println("aaaaaaaaaa");
 		System.out.println("ccccccccccc");
-		System.out.println("Œ¢–≈…®¬Î∏„∂®¡À");
+		System.out.println("weixin");
 	}
 }
